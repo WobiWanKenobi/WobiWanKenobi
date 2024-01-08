@@ -4,14 +4,7 @@
        alt="snake" /></a>
 </div>
 
-
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=WobiWanKenobi&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="WobiWanKenobi" 
-    bg_color=#808080/></p>
-
-<p><img https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight/></p>
-
+### About Me:
 
 - 👋 Hi, I’m Tobi
 - 👀 I’m interested in ...
