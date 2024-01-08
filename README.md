@@ -19,14 +19,14 @@
 <!--- git hub stats -->
 
 <div align="center" width="100%" margin-top="20px">
-  <img src="https://github-readme-stats.vercel.app/api?username=WobiWanKenobi&show_icons=true&theme=tokyonight"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WobiWanKenobi&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WobiWanKenobi&show_icons=true&theme=nightowl"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WobiWanKenobi&theme=nightowl"/>
 </div>
 
 &nbsp;
 
 <div align="center" width="100%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WobiWanKenobi&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WobiWanKenobi&theme=nightowl"/>
 </div>
 
 
