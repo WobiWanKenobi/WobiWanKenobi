@@ -9,6 +9,7 @@
 ### 📖 About Me:
 <div class="info-box">
   <li>👋 Hi, I’m Tobi I am a 22 years old computer science student from Munich, Germany! </li>
+  <li>🎓 Currently studying for my Bachelor of Science in Computer Science at Ludwig-Maximilian-Universität LMU) Munich</li>
   <li>👀 I’m interested in American Football, Photography(analog), cooking, 3D modelling and basically anaything related with computers </li>
   <li>🌱 I'm currently learning/improving my skills in Python and SQL</li>
   <li>📫 How to reach me: tobiwitte@icloud.com</li>
