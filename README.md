@@ -13,6 +13,9 @@
   <li>👀 I’m interested in American Football, Photography(analog), cooking, 3D modelling and basically anaything related with computers </li>
   <li>🌱 I'm currently learning/improving my skills in Python and SQL</li>
   <li>📫 How to reach me: tobiwitte@icloud.com</li>
+  <a href="github.com/WobiWanKenobi" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=WobiWanKenobi&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
+  </a>
 </div>
 
 &nbsp;
