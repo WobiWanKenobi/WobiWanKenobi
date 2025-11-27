@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying for my Bachelor of Science in Computer Science at Ludwig-Maximilian-Universität LMU Munich
+B.Sc. graduate in Computer Science. Passionate about machine learning/AI, 3D algorithms.
 
 
 # 💻 Tech Stack:
