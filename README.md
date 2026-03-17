@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Sc. graduate in Computer Science. Passionate about machine learning/AI, 3D algorithms and geospatial applications.
+B.Sc. graduate in Computer Science plus Computer Linguistic. Passionate about machine learning/AI, 3D algorithms and geospatial applications.
 
 
 # 💻 Tech Stack:
